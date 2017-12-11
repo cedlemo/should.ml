@@ -1,6 +1,6 @@
 # OASIS_START
-# DO NOT EDIT (digest: 0174152e85902c2a9cf7c14b364452ac)
-version = "0.0.1"
+# DO NOT EDIT (digest: 02c931c210bea923777d1682589706a6)
+version = "0.1.0"
 description = "Literate assertions"
 requires = "str"
 archive(byte) = "should.cma"
